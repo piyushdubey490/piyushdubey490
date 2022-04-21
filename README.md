@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **various solo projects**
 
-- 🌱 I’m currently learning **Swift , Xcode , IOS & Android App Development**
+- 🌱 I’m currently learning **Machine Learning , AI, IOS & Android App Development**
 
-- 👯 I’m looking to collaborate on **Java , Xcode , C++ , Python Projects**
+- 👯 I’m looking to collaborate on **Java , ML Projects , C++ , Python Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyushdubey490?tab=repositories](https://github.com/piyushdubey490?tab=repositories)
 
