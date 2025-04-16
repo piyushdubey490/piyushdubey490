@@ -1,10 +1,5 @@
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me:-
-## Introduction
+# Introduction
 Hi there! 👋
 
 Hi, I’m Piyush Dubey, a Computer Science and Engineering graduate with a deep interest and skillset in Machine Learning, DevOps, and Cloud Technologies.
@@ -26,6 +21,7 @@ I provide one on one advise too for educational purposes and ideas for product i
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushdubey490) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushdubey490) 
+
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
@@ -176,6 +172,8 @@ Authorized by IBM, 30 April 2023
 - 📦 Pushed new features to [Smart-Hospital-Queue-Management-System](https://github.com/piyushdubey490/Smart-Hospital-Queue-Management-System-)
 - 🚀 Contributed to [CDP_TPCS](https://github.com/piyushdubey490/CDP_TPCS)
 
+<img src="https://raw.githubusercontent.com/piyushdubey490/piyushdubey490/output/snake.svg" alt="Snake animation" />
 
+###
 
 
