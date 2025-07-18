@@ -8,18 +8,18 @@ With a solid foundation in AI, cloud platforms like AWS and Azure, and DevOps to
 
 At K&S Partners, I worked directly in the Qualcomm team, performing root cause analysis, patent research, and crafting strategic technical justifications to ensure clarity and robustness in intellectual property documentation. Beyond the tech stack, I bring strong interpersonal skills, time management, and a natural leadership instinct to every team I work with.
 
-Currently, I’m open to full-time roles, consulting gigs, and freelance opportunities in ML, DevOps, AI, or Cloud domains. I also hold a Letter of Intent from Wipro for the Project Engineer role.
+Currently, I’m open to full-time roles, consulting gigs, and freelance opportunities in ML, DevOps, AI, or Cloud domains. I work as a Developer at Wipro.
 
 If you’re passionate about cutting-edge tech—or have a challenge that needs a sharp mind and hands-on execution—let’s connect!
 
 I provide one on one advise too for educational purposes and ideas for product improvement. Hit me up, if you are a founder who needs a feature update.
 
--🔭 I’m currently working on **AI-based Home Surveillance System**<br><br>- 🌱 I’m currently learning **Cloud Native DevOps & LLM Applications** through Coursera<br><br>- 👯 I’m looking to collaborate on **Cloud Infra, DevOps, ML, and CV Projects**<br><br>- 🤝 I’m looking for help with **Entreprenuership - Building My Own Startup**<br><br>- 👨‍💻 All of my projects are available at [Here](https://github.com/piyushdubey490?tab=repositories)<br><br>- 💬 Ask me about **DevOps, ML Ops, CV, Cloud Infra, AI**<br><br>- 📫 How to reach me **piyushdubey490@icloud.com , pd2000yp@gmail.com**<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 350px></picture>
+-👯 I’m looking to collaborate on **Cloud Infra, DevOps, ML, and CV Projects**<br><br>- 🤝 I’m looking for help with **Entreprenuership - Building My Own Startup**<br><br>- 👨‍💻 All of my projects are available at [Here](https://github.com/piyushdubey490?tab=repositories)<br><br>- 💬 Ask me about **DevOps, ML Ops, CV, Cloud Infra, AI**<br><br>- 📫 How to reach me **piyushdubey490@icloud.com , pd2000yp@gmail.com**<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 350px></picture>
 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyushdubey490) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zacariusss) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushdubey490) 
 
 
